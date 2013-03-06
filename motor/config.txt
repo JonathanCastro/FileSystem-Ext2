@@ -1,0 +1,4 @@
+esquema: 1
+algEleccionLibre: 0
+algEleccionVictima: 0
+cantBusqFallidas: 2

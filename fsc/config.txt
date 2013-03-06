@@ -1,0 +1,6 @@
+ip: 192.168.2.169
+puerto: 5001
+cantidadDeConexiones: 3
+ipCache: 127.0.0.1
+puertoCache: 11212
+cache: 0

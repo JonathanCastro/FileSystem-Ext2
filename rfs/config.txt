@@ -1,0 +1,10 @@
+ip: 192.168.2.142
+puerto: 5051
+cantOperaciones: 2
+cache: 0
+pathDisco: /home/utnso/tp-so-04-08-tests/disks/1kb-300mb.disk
+ipCache: 192.168.2.251
+puertoCache: 11212
+maxEnEspera: 11111
+retardo: 0
+unidadRetardo: us
